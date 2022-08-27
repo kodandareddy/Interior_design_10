@@ -30,4 +30,4 @@
 
 ## How the website looks like
 
-![Desktop](./Screenshot%202022-08-27%20150141.jpg)
+![Desktop](./finalImage.jpg)
