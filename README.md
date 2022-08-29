@@ -15,7 +15,7 @@
 
 ---
 
-### Checkout the live website [here](https://wondrous-dragon-69d390.netlify.app/).
+### Checkout the live website [here](https://deluxe-kashata-bc8cd8.netlify.app/).
 
 ---
 
